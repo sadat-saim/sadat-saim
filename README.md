@@ -1,6 +1,8 @@
 <h1>👋 Hi, I’m <strong>Sadat-Saim</strong></h1>
 
 ![](https://komarev.com/ghpvc/?username=sadat-saim&label=PROFILE+VIEWS)
+[![](https://img.shields.io/github/followers/sadat-saim?style=social)](https://img.shields.io/github/followers/sadat-saim?style=social)
+
 
 
 I am a self-taught Web programmer. Currently doing my undergraduate program in <strong>Civil and Environmental Engineering.</strong>
