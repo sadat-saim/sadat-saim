@@ -6,7 +6,7 @@
 
 
 I am a self-taught Web programmer. Currently doing my undergraduate program in <strong>Civil and Environmental Engineering.</strong>
-I ❤️ to code and solving problem with JS. Learning DSA. In future I want to learn -
+I ❤️ to code and solve problem with JS. Learning DSA. In future I want to learn -
 
 <ul type="disk">
 <li>Typescript</li>
