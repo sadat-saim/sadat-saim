@@ -1,5 +1,4 @@
 <h1>👋 Hi, I’m <strong>Sadat-Saim</strong></h1>
-![](https://www.codewars.com/users/sadat_saim/badges/large)
 ![](https://komarev.com/ghpvc/?username=sadat-saim&label=PROFILE+VIEWS)
 [![](https://img.shields.io/github/followers/sadat-saim?style=social)](https://img.shields.io/github/followers/sadat-saim?style=social)
 
