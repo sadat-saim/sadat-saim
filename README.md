@@ -51,6 +51,18 @@
 ![vercel](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 🅿️ Projects
+
+[![Technical document](https://drive.google.com/uc?export=view&id=11aG-7LLxP1ind5z850BCMgCDC0OBNgDe)](https://sadat-saim.github.io/technical_document/)
+[![Typing Master](https://drive.google.com/uc?export=view&id=1o1zdqdLoZcuz1pRk-L3nu0-NgCSwUVal)](https://sadat-saim.github.io/typing/)
+[![Fresh News](https://drive.google.com/uc?export=view&id=1kDnF63HqoAig6Wens5KrGEZAavG9G4FP)](http://fresh-news24.netlify.app/)
+[![Code Course](https://drive.google.com/uc?export=view&id=1DFrz3viQi7ghAPI2ICE0CuGnEH2f_TMO)](https://codecourse.netlify.app/)
+[![Gym Club](https://drive.google.com/uc?export=view&id=1fU9feX4_HcOCn2vgYhmNqeXy3CR1KUuF)](https://gymclubactivity.netlify.app/)
+[![Dev Quizz](https://drive.google.com/uc?export=view&id=1oSMnP07Iun6wj4-hjLfNqNc96N5loPGT)](http://devquizzz.netlify.app/)
+[![Code Camp](https://drive.google.com/uc?export=view&id=1290RDWhUtPOdtzePdXTlXa2Tk30RSGDI)](https://code-camp-a4e9c.web.app/)
+[![Alex Photography](https://drive.google.com/uc?export=view&id=1PLjVs1mqP4Cun_oK8MKucnXSFMp99AqK)](https://alex-97d5a.web.app/)
+
+
 ### ☎️ Contact
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sadat.saim.50)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saimk861@gamil.com)
