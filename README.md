@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <h1 align="center">
   Welcome To My GitHub Profile
 </h1>
@@ -49,14 +51,14 @@
 ![vercel](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📞 Contact
+## ☎️ Contact
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sadat.saim.50)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saimk861@gamil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadat-saim-8769031a7/)
 [![LinkedIn](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadat_saim)
 
 ## 📅 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-saim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-saim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
