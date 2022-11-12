@@ -52,15 +52,60 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🅿️ Projects
+#### 🚨 All The Badges Are Clickable And Linked To Project Website
+
+***
 
 [![Technical document](https://drive.google.com/uc?export=view&id=11aG-7LLxP1ind5z850BCMgCDC0OBNgDe)](https://sadat-saim.github.io/technical_document/)
-[![Typing Master](https://drive.google.com/uc?export=view&id=1o1zdqdLoZcuz1pRk-L3nu0-NgCSwUVal)](https://sadat-saim.github.io/typing/)
-[![Fresh News](https://drive.google.com/uc?export=view&id=1kDnF63HqoAig6Wens5KrGEZAavG9G4FP)](http://fresh-news24.netlify.app/)
+<details><summary><h4>A Dummy Technical Documentation Website😎</h4></summary>
+ A dummy technical documentation website created for FreeCodeCamp responsive web design course. I build this website with vanilla HTML, CSS and learned about css positioning, flexbox and responsive design  😋.
+</details>
+
+***
+
 [![Code Course](https://drive.google.com/uc?export=view&id=1DFrz3viQi7ghAPI2ICE0CuGnEH2f_TMO)](https://codecourse.netlify.app/)
+<details><summary><h4>An Online Educational Website 📚</h4></summary>
+ An online educational website created using HTML and Bootstrap. Only used bootstrap classes for styling as a challenge. So, the ui looks typical Bootstrapy 😕.
+</details>
+
+***
+
+[![Typing Master](https://drive.google.com/uc?export=view&id=1o1zdqdLoZcuz1pRk-L3nu0-NgCSwUVal)](https://sadat-saim.github.io/typing/)
+<details><summary><h4>Typing Speed Checker ⌨️</h4></summary>
+ A website to check your typing speed. Created using vanilla HTML, Skeleton CSS for the UI and JavaScript for interactions. I've implemented dark mode, light mode and different accent colors for theming. I've learned about DOM, Events while creating this project.
+</details>
+
+***
+
+[![Fresh News](https://drive.google.com/uc?export=view&id=1kDnF63HqoAig6Wens5KrGEZAavG9G4FP)](http://fresh-news24.netlify.app/)
+<details><summary><h4>An Online News Website 📰</h4></summary>
+ A news website created using HTML, CSS, Bootstrap, Vanilla JavaScript. I've used a api to get news dynamically and injected the data in the HTML document using DOM. While working on this project I've learned more about DOM, API, Fetch API, Template literals and also learned ES6 arrow functions etc. For better UX added a loader. This project helped me to realize how different JS frameworks like React, Angular, Vue makes our life easier 😮‍💨.
+</details>
+
+***
+
 [![Gym Club](https://drive.google.com/uc?export=view&id=1fU9feX4_HcOCn2vgYhmNqeXy3CR1KUuF)](https://gymclubactivity.netlify.app/)
+<details><summary><h4>Gym Activity Tracking Website 💪</h4></summary>
+ My first React project or journey to the React world 😊. Gym activity tracker website created using React, Bootstrap. Learned about JSX, React, ES6 and LocalStorage.
+</details>
+
+***
+
 [![Dev Quizz](https://drive.google.com/uc?export=view&id=1oSMnP07Iun6wj4-hjLfNqNc96N5loPGT)](http://devquizzz.netlify.app/)
+<details><summary><h4>A Quiz Website 🤔</h4></summary>
+Another React project 🫠. An online quiz website to test your HTML, CSS, JS and React skills. For the UI I've used Tailwind CSS, Daisy UI and React. Used an api to load the quizzes and show it in the UI and used Rechart to show a simple chart. Learned about differen React hooks and states. 
+</details>
+
+***
 [![Code Camp](https://drive.google.com/uc?export=view&id=1290RDWhUtPOdtzePdXTlXa2Tk30RSGDI)](https://code-camp-a4e9c.web.app/)
 [![Alex Photography](https://drive.google.com/uc?export=view&id=1PLjVs1mqP4Cun_oK8MKucnXSFMp99AqK)](https://alex-97d5a.web.app/)
+
+***
+<details><summary><h4>⚠️ Github repo links will be added soon. Stay tuned.</h4></summary>
+Some of the projects featured in here are done for a bootcamp I am currently doing and thats why the repos are private. 
+</details>
+
+***
 
 
 ### ☎️ Contact
