@@ -16,12 +16,12 @@
 
 # 🙎‍♂️ About Me
 
-- 👨‍💻 I am a self-taught Web Developer.
+- 👨‍💻 I am a self-taught Programmer.
 - 🏫 BSc. in Civil and Environmental Engineering *(running)*
-- ❤️ Love **JavaScript** and Web Development
-- 🎲 Currently working on small **MERN** stack projects
+- ❤️ Love to code in **JavaScript** and **Python**
+- 🎲 Currently working on **Statistical Downscaling** using **ML**
 - 🌱 Want to be a Data Scientist
-- ⚡ Fun Fact :  Love to slove problems with JS
+- ⚡ Fun Fact : Love to blend engineering skills with cutting-edge technology
 <br/>
 
 ###  🚀 Skills
