@@ -4,6 +4,10 @@
   Welcome To My GitHub Profile
 </h1>
 
+<p align="center">
+  <img src="https://www.codewars.com/users/sadat_saim/badges/small" />
+</p>
+
 <div align="center"> 
 <a href="https://gifyu.com/image/SErGH"><img src="https://s4.gifyu.com/images/merge_from_ofoct.gif" alt="merge_from_ofoct.gif" border="0" /></a>
 </div>
