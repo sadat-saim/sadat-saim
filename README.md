@@ -63,7 +63,7 @@
 
 ***
 
-## [Code Course](https://codecourse.netlify.app/)
+## [Code Course](https://coursecode.netlify.app/)
 <details><summary><h4>An Online Educational Website 📚</h4></summary>
  An online educational website created using HTML and Bootstrap. Only used bootstrap classes for styling as a challenge. So, the ui looks typical Bootstrapy 😕.
 </details>
